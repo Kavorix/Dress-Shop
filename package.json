@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrussumbrella/dress-shop.git"
+    "url": "https://github.com/Kavorix/Dress-Shop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrussumbrella/dress-shop/issues"
+    "url": "https://github.com/Kavorix/Dress-Shop.git"
   },
-  "homepage": "https://github.com/jrussumbrella/dress-shop#readme",
+  "homepage": "https://github.com/Kavorix/Dress-Shop.git",
   "devDependencies": {
     "concurrently": "^5.2.0"
   },

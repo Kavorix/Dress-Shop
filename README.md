@@ -2,12 +2,6 @@
 
 ### A full stack e-commerce website for clothing store.
 
-### [Live demo](https://dress-shop.vercel.app/)
-
-## Screenshots
-
-![Thumbnail](dress-home-page.png)
-
 ## Stacks
 
 - TypeScript
@@ -22,7 +16,7 @@
 ### Clone Repository
 
 ```
-git clone https://github.com/jrussumbrella/dress-shop-web.git
+git clone git@github.com:Kavorix/Dress-Shop.git
 ```
 
 ### Client Installation
@@ -69,24 +63,4 @@ PAYPAL_CLIENT_SECRET=
 
 ```
 npm run dev
-```
-
-## Deploy using vercel
-
-### Globally install vercel
-
-```
-npm i -g vercel
-```
-
-### Client
-
-```
-vercel --prod
-```
-
-## Server
-
-```
-vercel --prod
 ```
