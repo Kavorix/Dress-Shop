@@ -1,0 +1,9 @@
+.checkoutBtnWrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.cartContainer {
+  padding: 2rem;
+}

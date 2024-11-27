@@ -1,0 +1,32 @@
+.qtyContainer {
+  display: flex;
+  border: 1px solid var(--background);
+  height: 4rem;
+}
+
+.qtyInput {
+  width: 6rem;
+  text-align: center;
+  font-size: 1.6rem;
+  border-left: 1px solid var(--background);
+  border-right: 1px solid var(--background);
+  border-top: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  background-color: var(--background);
+}
+
+.qtyInput:disabled {
+  opacity: 0.5;
+}
+
+.qtyBtn {
+  background-color: var(--background-light);
+  border: 1px solid transparent;
+  width: 4rem;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.qtyBtn:disabled {
+  opacity: 0.5;
+}
